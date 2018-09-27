@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/uudashr/gopkgs.svg?branch=master)](https://travis-ci.org/uudashr/gopkgs)
-[![GoDoc](https://godoc.org/github.com/uudashr/gopkgs?status.svg)](https://godoc.org/github.com/uudashr/gopkgs)
 # gopkgs
 
 Gopkgs is tools that provide list of available Go packages that can be imported.
@@ -8,7 +6,7 @@ This are alternative for `go list all`, it just faster.
 
 ## Installation
 
-`$ go get -u github.com/uudashr/gopkgs/cmd/gopkgs`
+`$ go get -u github.com/ahhh/gopkgs/cmd/gopkgs`
 
 ## Usage
 ```
